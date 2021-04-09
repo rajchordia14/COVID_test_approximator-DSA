@@ -103,9 +103,9 @@ int main()
 
 	printf("\nVarious Social Distancing Scenarios ( Choose one ) :\n");
 	printf("1. Without any social distancing (T100)\n");
-	printf("2. With social distancing reducing contacts to 50% (T50)\n");
-	printf("3. With social distancing reducing contacts to 33% (T33)\n");
-	printf("4. With social distancing reducing contacts to 50% with assigned service provider (TC)\n\n");
+	printf("2. With social distancing reducing contacts to 50 percent (T50)\n");
+	printf("3. With social distancing reducing contacts to 33 percent (T33)\n");
+	printf("4. With social distancing reducing contacts to 50 percent with assigned service provider (TC)\n\n");
 	printf("Enter choice : ");
 	scanf("%d",&choice);
 	//return doExperiment(p,perS,infPR,choice);
